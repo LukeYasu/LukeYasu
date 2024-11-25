@@ -4,6 +4,9 @@
 - 🌱 I’m currently utilizing React, TypeScript, Node, PostgreSQL
 - 📫 How to reach me: lucasyasumura@gmail.com
 
+## About Me!
+- I code 0_0
+
 - ## Let's connect!
 - LinkedIn https://www.linkedin.com/in/lucas-yasumura/
 <!--
