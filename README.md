@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my front end project
-🌱 I’m currently utilizing React, TypeScript, Node, PostgreSQL
+- 🔭 I’m currently working on my front end project
+- 🌱 I’m currently utilizing React, TypeScript, Node, PostgreSQL
 - 📫 How to reach me: lucasyasumura@gmail.com
 <!--
 **LukeYasu/LukeYasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
