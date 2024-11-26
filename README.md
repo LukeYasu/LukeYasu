@@ -5,7 +5,7 @@
 - 📫 How to reach me: lucasyasumura@gmail.com
 
 ## About Me!
-- I code 0_0
+- I am a full stack developer who loves to work on projects and learn new things! I like to challenge myself with new and unfamiliar tasks and write the best code that I can. 
 
 - ## Let's connect!
 - LinkedIn https://www.linkedin.com/in/lucas-yasumura/
