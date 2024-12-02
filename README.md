@@ -9,6 +9,11 @@
 
 ## Let's connect!
 - LinkedIn - https://www.linkedin.com/in/lucas-yasumura/
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-brightgreen)
+
+![Static Badge](https://img.shields.io/badge/LiknedIn)
+
 <!--
 **LukeYasu/LukeYasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
