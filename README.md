@@ -8,7 +8,7 @@
 - I am a full stack developer who loves to work on projects and learn new things! I like to challenge myself with new and unfamiliar tasks and write the best code that I can. 
 
 ## Let's connect!
-- LinkedIn -https://www.linkedin.com/in/lucas-yasumura/
+- LinkedIn - https://www.linkedin.com/in/lucas-yasumura/
 <!--
 **LukeYasu/LukeYasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
