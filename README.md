@@ -5,7 +5,7 @@
 - 📫 How to reach me: lucasyasumura@gmail.com
 
 ## About Me!
-Hello everyone! I am a software developer who has a passion for software development and problem solving. I have always loved creating projects and solving puzzles and software development was a perfect blend of both worlds. Joining LearningFuze allowed me to pursue that passion and further my skills.
+I am a software developer who has a passion for software development and problem solving. I have always loved creating projects and solving puzzles and software development was a perfect blend of both worlds. Joining LearningFuze allowed me to pursue that passion and further my skills.
 
 LearningFuze is a program that focuses on teaching JavaScript, TypeScript, HTML, CSS, React and Node in a real world working environment. Beyond technical expertise, I’ve developed strong collaborative and communication skills, enabling me to thrive in team-oriented projects and deliver impactful results.
 
