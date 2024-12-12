@@ -5,8 +5,11 @@
 - 📫 How to reach me: lucasyasumura@gmail.com
 
 ## About Me!
-- I am a full stack developer who loves to work on projects and learn new things! I like to challenge myself with new and unfamiliar tasks and write the best code that I can. 
+- Hello everyone! I am a software developer who has a passion for software development and problem solving. I have always loved creating projects and solving puzzles and software development was a perfect blend of both worlds. Joining LearningFuze allowed me to pursue that passion and further my skills.
 
+LearningFuze is a program that focuses on teaching JavaScript, TypeScript, HTML, CSS, React and Node in a real world working environment. Beyond technical expertise, I’ve developed strong collaborative and communication skills, enabling me to thrive in team-oriented projects and deliver impactful results.
+
+I am eager to leverage my technical knowledge and problem-solving mindset to contribute to meaningful projects, continuously learn, and make a positive impact in the tech industry.
 ## Let's connect!
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/lucas-yasumura/) - https://www.linkedin.com/in/lucas-yasumura/
 
